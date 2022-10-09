@@ -109,3 +109,7 @@
 # 使用 gitbook serve
 
 無報錯 使用成功 打開 localhost:4000 即可瀏覽你的 gitbook 啦!!
+
+# 使用 gitbook build
+
+如要製作 Static 頁面，使用指令 gitbook build 即可!!
